@@ -1,7 +1,7 @@
-[! [masterHead](https://www.canva.com/design/DAFfZyexuHY/nDrQcleRRVg4f3VyCetLCA/view?utm_content=DAFfZyexuHY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+![logo](https://github.com/Avinashbhat12/Avinashbhat12/blob/main/ffgh%20(1).png)
 <h1 align="center">Hi 👋, I'm Avinash Bhat</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=uv82svnv&id=EBA448CD3A9C3C675F43B5407BD35C4EC4233DCC&thid=OIP.uv82svnvaqGyneDxUMed7wAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.baff36b2f9ef6aa1b29de0f150c79def%3frik%3dzD0jxE5c03tAtQ%26riu%3dhttp%253a%252f%252fcdn.lowgif.com%252fsmall%252ff7bd98da079046af-matrix-code-tumblr.gif%26ehk%3dvkxK5Ww%252bJcvCPWj%252bDBqs2ZO6nuCTeU9taGPZAYP7bts%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=320&expw=446&q=animated+Coding+GIF&simid=608011780094900661&FORM=IRPRST&ck=EE773D600A4D583692A69263C8E81091&selectedIndex=81">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+giff&simid=607996541571378151&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=103">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashbhat12&label=Profile%20views&color=0e75b6&style=flat" alt="avinashbhat12" /> </p>
 

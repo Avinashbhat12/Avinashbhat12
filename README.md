@@ -1,7 +1,7 @@
 ![logo](https://github.com/Avinashbhat12/Avinashbhat12/blob/main/ffgh%20(1).png)
 <h1 align="center">Hi 👋, I'm Avinash Bhat</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+giff&simid=607996541571378151&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=103">
+<img align="right" alt="coding" width="400"  src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashbhat12&label=Profile%20views&color=0e75b6&style=flat" alt="avinashbhat12" /> </p>
 

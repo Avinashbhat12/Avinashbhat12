@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/Avinashbhat12/Avinashbhat12/blob/main/ffgh%20(1).png"/></p>
 <h1 align="center">Hi 👋, I'm Avinash Bhat</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right"  width="400"  img src="https://github.com/Avinashbhat12/Avinashbhat12/blob/main/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
+<img align="right"  width="400" src="https://github.com/Avinashbhat12/Avinashbhat12/blob/main/9ynmFP.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashbhat12&label=Profile%20views&color=0e75b6&style=flat" alt="avinashbhat12" /> </p>
 

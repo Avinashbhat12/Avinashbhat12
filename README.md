@@ -1,19 +1,18 @@
 
-<p align="center"><img src="https://github.com/Avinashbhat12/Avinashbhat12/blob/main/ffgh%20(1).png"/></p>
 <h1 align="center">Hi 👋, I'm Avinash Bhat</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right"  width="400" src="https://github.com/Avinashbhat12/Avinashbhat12/blob/main/9ynmFP.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashbhat12&label=Profile%20views&color=0e75b6&style=flat" alt="avinashbhat12" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 **MTech Grad**
 
 - 📫 How to reach me **avibhat888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-bhat-b86558255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seetaram naik" height="40" width="50" /></a>
-<a href="https://instagram.com/avinash_bhat115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seetaramnaik44" height="40" width="50" /></a>
+<a href="https://instagram.com/avinash_bhat_115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avi" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

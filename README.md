@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Avinash Bhat</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right"  width="400" src="https://github.com/Avinashbhat12/Avinashbhat12/blob/main/9ynmFP.gif"/>
 
